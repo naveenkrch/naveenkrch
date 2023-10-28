@@ -1,10 +1,7 @@
-![image](https://github.com/naveenkrch/naveenkrch/assets/111461840/fa3465a2-85c0-4efa-aa0b-fd924a9587cc)
-
+![image](https://github.com/naveenkrch/naveenkrch/assets/111461840/f66b45df-849b-4c23-8bc0-49d482a3c384)
 
 <h1 align="center">Hi 👋, I'm Naveen kumar Chauhan</h1>
 <h3 align="center">A passionate data analys from India</h3>
-![image](https://github.com/naveenkrch/naveenkrch/assets/111461840/c2e4c039-a49b-4ddd-a5ef-f6c42a3916fb)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkrch&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkrch" /> </p>
 
