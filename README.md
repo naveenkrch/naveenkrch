@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Naveen kumar Chauhan</h1>
 <h3 align="center">A passionate data analys from India</h3>
-
+<img aling="right" alt="coding" width="400" src="![image](https://github.com/naveenkrch/naveenkrch/assets/111461840/725a483b-3478-404a-afce-fe1a54823b6a)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkrch&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkrch" /> </p>
 
 - 🌱 I’m currently learning **R**
